@@ -2188,10 +2188,10 @@ kleur@^3.0.3:
   resolved "https://registry.yarnpkg.com/kleur/-/kleur-3.0.3.tgz#a79c9ecc86ee1ce3fa6206d1216c501f147fc07e"
   integrity sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w==
 
-kurtosis-sdk@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/kurtosis-sdk/-/kurtosis-sdk-1.0.0.tgz#7fbf99399cb972adea8c93c4efe670899ae3cc05"
-  integrity sha512-2mfsNl+jBECo05opuRr+esNx/vjyJxrxJLz0oNI66RWjCFqJsKMQgZLrC7Jk3hc3+jx5k3OkkGXmvx5Tv1ps7w==
+kurtosis-sdk@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/kurtosis-sdk/-/kurtosis-sdk-1.2.0.tgz#77ec1ad9f2ed966492399a71a12e98a7b2c71a00"
+  integrity sha512-mSRJos7KhkNFKoEEZegD9BnxQLOI1Fr3IWLSu4ABnCZmVSkSpODeDfMKWq1AGa5LFMyPRFRvLm7edvGk22tEww==
   dependencies:
     "@bufbuild/connect" "^0.12.0"
     "@bufbuild/connect-web" "^0.12.0"
@@ -2501,9 +2501,9 @@ picocolors@^1.0.0:
   integrity sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==
 
 picomatch@^2.0.4, picomatch@^2.2.3, picomatch@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.1.tgz#3ba3833733646d9d3e4995946c1365a67fb07a42"
-  integrity sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA==
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.2.tgz#5a942915e26b372dc0f0e6753149a16e6b1c5601"
+  integrity sha512-V7+vQEJ06Z+c5tSye8S+nHUfI51xoXIXjHQ99cQtKUkQqqO1kO/KCJUfZXuB47h/YBlDhah2H3hdUGXn8ie0oA==
 
 pirates@^4.0.4:
   version "4.0.5"
