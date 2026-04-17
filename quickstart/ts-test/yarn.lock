@@ -2188,10 +2188,10 @@ kleur@^3.0.3:
   resolved "https://registry.yarnpkg.com/kleur/-/kleur-3.0.3.tgz#a79c9ecc86ee1ce3fa6206d1216c501f147fc07e"
   integrity sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w==
 
-kurtosis-sdk@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/kurtosis-sdk/-/kurtosis-sdk-1.0.0.tgz#7fbf99399cb972adea8c93c4efe670899ae3cc05"
-  integrity sha512-2mfsNl+jBECo05opuRr+esNx/vjyJxrxJLz0oNI66RWjCFqJsKMQgZLrC7Jk3hc3+jx5k3OkkGXmvx5Tv1ps7w==
+kurtosis-sdk@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/kurtosis-sdk/-/kurtosis-sdk-1.2.0.tgz#77ec1ad9f2ed966492399a71a12e98a7b2c71a00"
+  integrity sha512-mSRJos7KhkNFKoEEZegD9BnxQLOI1Fr3IWLSu4ABnCZmVSkSpODeDfMKWq1AGa5LFMyPRFRvLm7edvGk22tEww==
   dependencies:
     "@bufbuild/connect" "^0.12.0"
     "@bufbuild/connect-web" "^0.12.0"
@@ -2549,9 +2549,9 @@ prompts@^2.0.1:
     sisteransi "^1.0.5"
 
 protobufjs@^7.0.0:
-  version "7.2.4"
-  resolved "https://registry.yarnpkg.com/protobufjs/-/protobufjs-7.2.4.tgz#3fc1ec0cdc89dd91aef9ba6037ba07408485c3ae"
-  integrity sha512-AT+RJgD2sH8phPmCf7OUZR8xGdcJRga4+1cOaXJ64hvcSkVhNcRHOwIxUatPH15+nj59WAGTDv3LSGZPEQbJaQ==
+  version "7.5.5"
+  resolved "https://registry.yarnpkg.com/protobufjs/-/protobufjs-7.5.5.tgz#b7089ca4410374c75150baf277353ef76db69f96"
+  integrity sha512-3wY1AxV+VBNW8Yypfd1yQY9pXnqTAN+KwQxL8iYm3/BjKYMNg4i0owhEe26PWDOMaIrzeeF98Lqd5NGz4omiIg==
   dependencies:
     "@protobufjs/aspromise" "^1.1.2"
     "@protobufjs/base64" "^1.1.2"
